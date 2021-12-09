@@ -44,12 +44,12 @@ def moc1D1g():
     
     Q=q/(4*math.pi)
     iteration=0
-    sweepnumber=0
+
     while True:
         iteration+=1
         print(iteration)
         while True:
-            sweepnumber+=1
+
             phi=q/Sigma_trans
 
             position=0
@@ -105,7 +105,7 @@ def moc1D1g():
             Q=q/(4*math.pi)
 
         
-    print(sweepnumber)
+
     return keff,phi
             
 keff,phi=moc1D1g()
