@@ -2,7 +2,8 @@
 
 This folder contains scripts I wrote during my M.Sc. thesis. 
 
-It contains the functions for solving neutron transport using Method of Characteristics(MOC):
+It contains the functions for solving neutron transport using Method of Characteristics(MOC)
+
 	-> in one and in two dimensions (1D & 2D), 
 	-> with one-group approximation and with multigroup approximation(1g & mg).
 
@@ -10,6 +11,7 @@ It contains the functions for solving neutron transport using Method of Characte
 All the scripts were written in python language using the IDE of Spyder in Windows 10. The dependencies are numpy and multiprocessing libraries.
 
 The 2D functions are written for a rectangular grid. To solve a problem:
+
 	-> Describe the problem in a script
 	-> Save it as "input.py".
 	-> Copy the relevant "solver" in the same directory as input.
