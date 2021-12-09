@@ -2,7 +2,7 @@
 
 This folder contains scripts I wrote during my M.Sc. thesis. 
 
-It contains the functions for solving neutron transport using Method of Characteristics(MOC)
+It contains the functions for solving neutron transport using Method of Characteristics(MOC):
 	-> in one and in two dimensions (1D & 2D), 
 	-> with one-group approximation and with multigroup approximation(1g & mg).
 
