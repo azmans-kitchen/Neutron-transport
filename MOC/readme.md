@@ -1,3 +1,5 @@
+#Method of Characteristics
+
 This folder contains scripts I wrote during my M.Sc. thesis. 
 
 It contains the functions for solving neutron transport using Method of Characteristics(MOC)
