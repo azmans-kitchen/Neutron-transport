@@ -22,7 +22,9 @@ To understand how to write "input" for a problem, please refer to the "input" fi
 	->...\MOC\benchmark_examples\2_multi_group_one_dimension\URR-3-0-IN
 	->...\MOC\benchmark_examples\3_one_group_two_dimension\one_group_eigenvalue_problem
 
-To achieve optimum result with parallelization, set the number of azimuthal divisions as an integer multiple of 4*cores
+To achieve optimum result with parallelization, set the number of azimuthal divisions as an integer multiple of 4*cores. 
+
+If a parallel execution is not completed, kill the individual python processes in th task manager
 
 Please see the reference for each of the benchmarks provided there. 
 
