@@ -1,4 +1,4 @@
-#Method of Characteristics
+# Method-of-Characteristics
 
 This folder contains scripts I wrote during my M.Sc. thesis. 
 
