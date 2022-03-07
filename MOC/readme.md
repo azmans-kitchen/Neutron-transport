@@ -1,6 +1,6 @@
 # Method-of-Characteristics
 
-This folder contains scripts I wrote during my M.Sc. thesis. I have uploaded my dissertation here. Please read the thesis if you are interested.
+This folder contains scripts I wrote during my M.Sc. thesis. I have uploaded my dissertation (main.pdf) here. Please read the thesis if you are interested.
 
 It contains the functions for solving neutron transport using Method of Characteristics(MOC)
 
